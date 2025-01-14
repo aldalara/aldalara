@@ -9,10 +9,8 @@ Python, SQL, HTML Data Science & Machine Learning: Scikit-learn, TensorFlow, X
 <br><br>
 <b>🏆 Education and Certifications</b>
 <br>
-– Data Science Bootcamp (2024) – The Bridge | 490 hours of intensive training in Python, ML, Deep Learning, SQL, and data visualization.
-<br>
-- Degree in Communication Design (2015-2018) – ESAD | Specialized in branding and visual communication strategies.
-<br>
+- Data Science Bootcamp (2024) – The Bridge | 490 hours of intensive training in Python, ML, Deep Learning, SQL, and data visualization.<br>
+- Degree in Communication Design (2015-2018) – ESAD | Specialized in branding and visual communication strategies.<br>
 - Machine Learning Engineer Certification – Focused on advanced ML techniques with TensorFlow & Keras.
 <br><br>
 <b>🤝 Connect with Me</b>
