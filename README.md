@@ -5,24 +5,11 @@ Welcome to my GitHub! I’m passionate about combining data, creativity, and tec
 <br><br>
 🔭 I’m currently working on: Data science projects combining creativity and technology, including data visualization and predictive analytics.<br>👯 I’m looking to collaborate on: Data-driven innovation, branding strategies, and creative tech projects.<br>🤝 I’m looking for help with: Advanced AI models and scalable machine learning solutions.<br>🌱 I’m currently learning: Deep Learning, advanced Python libraries, and Tableau storytelling.<br>💬 Ask me about: Data visualization, branding, and blending creativity with data.<br>⚡ Fun fact: I co-led an AI project to build an automated skin analyzer!
 <br><br>
-<b>🔧 Technologies and Tools</b>
-<br><br>
-Python, SQL, HTML Data Science & Machine Learning: Scikit-learn, TensorFlow, XGBoost, Predictive Analysis Visualization: Power BI, Tableau, Matplotlib, Plotly Big Data & Analytics: Google Analytics (GA4), Tag Manager Design & Creativity: Adobe Creative Suite, Figma Collaboration: Git/GitHub, APIs (Postman)
-<br><br>
-<b>🏆 Education and Certifications</b>
-<br>
-- Data Science Bootcamp (2024) – The Bridge | 490 hours of intensive training in Python, ML, Deep Learning, SQL, and data visualization.<br>
-- Degree in Communication Design (2015-2018) – ESAD | Specialized in branding and visual communication strategies.<br>
-- Machine Learning Engineer Certification – Focused on advanced ML techniques with TensorFlow & Keras.
-
-<br>
 <b>🤝 Contact with me</b>
 <br><br>
 <b>LinkedIn:</b> linkedin.com/in/laraaldalur
 <br>
 <b>Email:</b> laraaldalur@gmail.com
-<br>
-<b>GitHub:</b> github.com/aldalara
 <br><br>
 ⭐ If you enjoy my projects, give them a star ⭐ and share your feedback!
 
