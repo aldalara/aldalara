@@ -3,7 +3,7 @@
 <br><br>
 Welcome to my GitHub! I’m passionate about combining data, creativity, and technology to deliver impactful solutions through data analysis, visualization, and machine learning.
 <br><br>
-🔭 I’m currently working on: Data science projects combining creativity and technology, including data visualization and predictive analytics.<br>👯 I’m looking to collaborate on: Data-driven innovation, branding strategies, and creative tech projects.<br>🤝 I’m looking for help with: Advanced AI models and scalable machine learning solutions.<br>🌱 I’m currently learning: Deep Learning, advanced Python libraries, and Tableau storytelling.<br>💬 Ask me about: Data visualization, branding, and blending creativity with data.<br>⚡ Fun fact: I co-led an AI project to build an automated skin analyzer!
+🔭 I’m currently working on: Data science projects combining marketing and technology, including data visualization and predictive analytics.<br>👯 I’m looking to collaborate on: Data-driven innovation, marketing strategies, and creative tech projects.<br>🤝 I’m looking for help with: Advanced AI models and scalable machine learning solutions.<br>🌱 I’m currently learning: Deep Learning, advanced Python libraries, and Tableau storytelling.<br>💬 Ask me about: Data visualization, marketing, and blending creativity with data.<br>⚡ Fun fact: I co-led an AI project to build an automated skin analyzer!
 <br><br>
 <b>🤝 Contact with me</b>
 <br><br>
